@@ -1,4 +1,4 @@
-=== Easy Coming Soon Pro ===
+=== Simple Event Calendar ===
 Contributors: a.ankit, naresh
 Donate link: http://www.spoontalk.com/
 Tags: event, event calendar, event display calendar, even list 
