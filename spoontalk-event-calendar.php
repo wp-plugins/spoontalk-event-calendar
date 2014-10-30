@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: SpoonTalk Event Calendar
- * Version: 1.0.1
+ * Version: 0.8
  * Description: SpoonTalk Event Calendar is a simple yet powerful plugin for accepting online events on your WordPress blog site.
  * Author: Naresh, ANkit
  */
