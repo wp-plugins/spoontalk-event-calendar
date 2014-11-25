@@ -1,0 +1,22 @@
+.ui-dialog{ 
+top: 80px !important;
+left: 430px !important;
+position:fixed !important;
+}
+#dialog{ background-color:white;height:auto !important}
+
+.fc-day-grid-container{height:auto !important;}
+
+#getdata tr td{ 
+line-height:30px;
+border: 1px #f7b64b;
+border-style: solid;
+min-width:100px;
+}
+#getdata tr td img{ max-height:170px;max-width:412px; }
+.fc-title {  padding: 0 1px;
+white-space: nowrap;
+}
+/*form css*/
+.myform { margin: 0 0 20px;}
+.select-box { margin: 0 0 0;}
