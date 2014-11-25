@@ -15,7 +15,7 @@ SpoonTalk Event Calendar is a simple plugin which lets you display a list of you
 
 The plugin is under beta new featured will be added based on user feedback. We do have plans to support Recurring and Multi day events. 
 
-Pls take not that it is not a booking solution. Event booking is not supported.
+Pls take not that it is not a booking solution. Event booking is not supported...
 
  
 In case you face any problem, contact us via the [Forums]
