@@ -21,7 +21,7 @@ The plugin is under beta new featured will be added based on user feedback. We d
 * Single Day Event with a Start Time and End Time 
 * All Day Booking
 * Events Spanning Multiple Days
-* Embedding of Event Calendar on any Post / Page using the short-code [st_event]
+* Embedding of Event Calendar on any Post / Page using the short-code **[st_event]**
 * Clicking on the Event calendar opens up a Modal Box which displays the Event Related Data. 
 
 = Features under consideration =  
