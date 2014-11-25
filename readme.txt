@@ -11,7 +11,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 SpoonTalk Event Calendar is a simple plugin which lets you display a list of your events in a Calendar. The calendar can be embedded into page / post using the shortcode st_event.  
 
 == Description ==
-**SpoonTalk Event Calendar** is a simple plugin which lets you display a list of your events in a Calendar. The calendar can be embedded into page / post using the shortcode st_event.  
+**SpoonTalk Event Calendar** is a simple plugin which lets you display a list of your events in a Calendar. The calendar can be embedded into page / post using the shortcode **[st_event]**.  
 
 The plugin is under beta new featured will be added based on user feedback. We do have plans to support Recurring and Multi day events. 
 
@@ -38,7 +38,7 @@ If you want to Embed a Calendar of Events on your Wordpress Site then this plugi
 Pls take not that it is not a booking solution. Event booking is not supported.
 
  
-In case you face any problem, contact us via the [Forums]
+In case you face any problem, contact us via the [Forums](https://wordpress.org/support/plugin/spoontalk-event-calendar)
 
 
 
