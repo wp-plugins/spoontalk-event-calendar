@@ -4,7 +4,7 @@ Donate link: http://www.spoontalk.com/
 Tags: event, event calendar, event display calendar, even list 
 Requires at least: 3.3+
 Tested up to: 4.0
-Stable tag: 0.8
+Stable tag: 0.81
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
